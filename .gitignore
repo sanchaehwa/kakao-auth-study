@@ -8,9 +8,12 @@ build/
 out/
 !gradle/wrapper/gradle-wrapper.jar
 generated
-
 # 기타 임시 폴더
-data/
+data
+
+#환경변수
+.env
+
 
 # 로그 파일
 *.log
